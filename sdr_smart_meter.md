@@ -7,14 +7,15 @@ OS:  Debian amd64
 # Steps
 Following the steps provided in [Smart Meter Dashboard: Collecting the Data](https://billyoverton.com/2016/06/19/smart-meter-collecting-the-data.html)
 
-
+```
 apt-get update
 apt update
 apt upgrade
 apt-get install cmake build-essential libusb-1.0-0-dev git
 apt-get install usbutils
 apt install pkg-config
-
+```
+```
 cd ~
 git clone git://git.osmocom.org/rtl-sdr.git
 cd rtl-sdr
