@@ -60,10 +60,6 @@ go get github.com/bemasher/rtlamr
 mkdir /opt/powermon
 cp /home/pi/go/bin/rtlamr /opt/powermon
 ```
-https://medium.com/@konpat/usb-passthrough-to-an-lxc-proxmox-15482674f11d
-
-lsusb
-
 
 # References
 - [Smart Meter Dashboard: Collecting the Data](https://billyoverton.com/2016/06/19/smart-meter-collecting-the-data.html)
@@ -72,3 +68,4 @@ lsusb
 - [BitBaningBytes gr-smart_meters Github](https://github.com/BitBangingBytes/gr-smart_meters)
 - [USING SDR TO READ YOUR SMART METER](https://hackaday.com/2014/02/25/using-sdr-to-read-your-smart-meter/)
 - [Gr Smart Meters Setup Guide](https://wiki.recessim.com/view/Gr-smart_meters_Setup_Guide)
+- [USB Passthrough Proxmox](https://medium.com/@konpat/usb-passthrough-to-an-lxc-proxmox-15482674f11d)
